@@ -1,7 +1,6 @@
 set nocompatible
 filetype off
 
-
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
@@ -13,6 +12,7 @@ Plugin 'mattn/emmet-vim'
 Plugin 'jszakmeister/vim-togglecursor'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'tpope/vim-fugitive'
 
 call vundle#end()
 filetype plugin indent on
@@ -56,3 +56,4 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme='dracula'
 let g:airline#extensions#tabline#formatter = 'unique_tail'
+
