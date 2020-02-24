@@ -1,0 +1,2 @@
+# generate simple maven project
+mvn archetype:generate -DgroupId=com.lukascode -DartifactId=web-service -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
