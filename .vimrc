@@ -20,7 +20,7 @@ filetype plugin indent on
 
 set number
 set linebreak
-set showbreak=+
+set showbreak=$
 set textwidth=100
 set showmatch
 
@@ -44,11 +44,12 @@ set backspace=indent,eol,start
 
 syntax on 
 colorscheme dracula
-
+                          
 filetype plugin indent on
 
 map <C-\> :NERDTreeToggle<CR>
-
+map <C-a> <esc>ggVG<CR>
+map <C-I> <esc>ggVG=<CR>
 
 " Airline extension
 let g:airline#extensions#tabline#left_sep = ' '
