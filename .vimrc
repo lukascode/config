@@ -36,6 +36,7 @@ set smartindent
 set smarttab
 set softtabstop=4
 set cursorline
+set noshowmatch
 
 set ruler
 
