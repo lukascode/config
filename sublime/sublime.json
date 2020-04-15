@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"draw_white_space": "selection",
+	"font_size": 13,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": false,
+	"show_encoding": true,
+	"theme": "Sunrise.sublime-theme",
+	"color_scheme":"Packages/Sunrise Theme/Scheme/Sunrise.tmTheme",
+	"translate_tabs_to_spaces": true,
+	"java_import_path":
+	[
+		"C:/Soft/java/java8-jdk/src.zip"
+	]
+}
