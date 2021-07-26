@@ -5,6 +5,7 @@
 	"caret_extra_width": 1,
 	"draw_white_space": "selection",
 	"font_size": 13,
+	"font_face": "JetBrains Mono Regular",
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":

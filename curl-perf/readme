@@ -1,0 +1,4 @@
+https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/
+
+eg.
+curl -L -w "@curl-format.txt" -o /dev/null -s google.com
